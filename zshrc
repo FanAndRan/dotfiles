@@ -14,6 +14,7 @@ antigen use oh-my-zsh
 antigen bundle git
 antigen bundle autojump
 antigen bundle docker
+antigen bundle kubectl
 
 # Syntax highlighting plugins 
 antigen bundle zsh-users/zsh-syntax-highlighting
